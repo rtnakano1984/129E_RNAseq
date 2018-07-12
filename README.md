@@ -1,4 +1,4 @@
-## Scripts of Garrido-Oter *et al.*, Modular traits of the Rhizobiales root microbiota and their evolutionary relationship with symbiotic rhizobia, Cell Host&Microbe, 24(1), 155-167 (2018).
+## Scripts of Garrido-Oter *et al.*, Modular traits of the Rhizobiales root microbiota and their evolutionary relationship with symbiotic rhizobia, [Cell Host&Microbe, 24(1), 155-167 (2018)](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(18)30318-4).
 
 originally by Ryohei Thomas Nakano
 
